@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DhanyKurniawan
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning javascript, etc
+- 🌱 I’m currently learning about javascript, etc
 - 💞️ I’m looking to collaborate on anything about program
 - 📫 How to reach me : by WhatsApp
 
